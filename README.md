@@ -5,6 +5,8 @@
 
 **Wikipedia Search App** is a desktop application developed in Python that allows users to perform Wikipedia searches using an intuitive graphical interface.
 
+![Screenshot 2023-10-09 152722](https://github.com/elektronoide/Wikipedia-Search/assets/134635227/a393146c-db76-4f34-b353-56a800f7df36)
+
 ## Key Features
 
 - Search for articles on Wikipedia based on a keyword.
