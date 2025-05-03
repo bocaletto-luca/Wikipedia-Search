@@ -1,5 +1,7 @@
 # Wikipedia Search App
 
+**Autore:** Bocaletto Luca
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![License](https://img.shields.io/badge/License-GPLv3-green)
 
