@@ -30,7 +30,7 @@ def search_wikipedia():
         "Rumeno": "ro",
         "Albanese": "sq"
     }
-    selected_language_code = language_mapping.get(selected_language, "en")  # Ottieni il codice della lingua
+    selected_language_code = language_mapping.get(selected_language, "it")  # Ottieni il codice della lingua
     wiki_wiki = wikipediaapi.Wikipedia(
         language=selected_language_code,
         extract_format=wikipediaapi.ExtractFormat.WIKI,
