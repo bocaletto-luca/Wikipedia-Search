@@ -1,6 +1,6 @@
-# Nome del Software: Wikipedia Search
-# Autore: Bocaletto Luca
-# Sito Web: https://www.elektronoide.it
+# Software Name: Wikipedia Search
+# Author: Bocaletto Luca
+# Language: Italian
 # Licenza: GPLv3
 
 # Importa le librerie necessarie
