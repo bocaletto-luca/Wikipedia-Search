@@ -38,11 +38,6 @@
 
 This project is distributed under the [GPLv3](LICENSE) license, which means you are free to use, modify, and distribute the source code in accordance with the terms of the license.
 
-## Author
-
-**Luca Bocaletto**
-- Website: [https://www.elektronoide.it](https://www.elektronoide.it)
-
 ## Contributions
 
 Bug reports, suggestions, and contributions are welcome! Feel free to open an issue or submit a pull request.
