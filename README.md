@@ -45,3 +45,11 @@ Bug reports, suggestions, and contributions are welcome! Feel free to open an is
 ## Acknowledgments
 
 Thank you for using the Wikipedia Search App!
+
+---
+
+**Maintainer Update**
+
+All legacy projects from the old `@Elektronoide` GitHub account are now officially maintained by **@bocaletto-luca**. Please direct any issues, pull requests, and stars to **@bocaletto-luca** for all future updates.
+
+---
